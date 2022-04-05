@@ -1,7 +1,10 @@
 <h3 align="center" >
   Welcome to Ria Ammu's GitHub Profile
-  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="150">
+  
 </h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="200"/>
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Web%20Dev%20Enthusiast;Aiming%20For%20FrontEnd%20Development;Third%20Year%20Student%20at%20LPU;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=99B2DD&vCenter=true&size=22"></a>
 </p>
@@ -10,22 +13,19 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/RiaAmmu"><img width="32px" alt="GitHub" title="GitHub" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/priyanshusaxena2612"><img width="32px" alt="Dev.to" title="Dev.to" src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667"></a>
+  <a href="https://dev.to/riaammu"><img width="32px" alt="Dev.to" title="Dev.to" src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<p align="center">
-  <img src = "./1.jpg" style = "height: 300px">
-</p>
+
 
 <p align="center">
-  <a href="https://github.com/PriyanshuSaxena2612?tab=repositories&sort=stargazers">
+  <a href="https://github.com/RiaAmmu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PriyanshuSaxena2612"/></a>
     <a href="https://github.com/RiaAmmu?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/PriyanshuSaxena2612?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <p align="center"> 
   Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/PriyanshuSaxena2612/count.svg" />
+  <img src="https://profile-counter.glitch.me/RiaAmmu/count.svg" />
 </p>
 
 ## 🛠️ Tools
@@ -33,8 +33,9 @@
 ### 👨‍💻 Programming languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  <img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-blueviolet.svg?logo=R&logoColor=white">
   <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  
   
 </p>
 
@@ -74,8 +75,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<a href="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api?username=PriyanshuSaxena2612&show_icons=true&theme=buefy"/></a>
-<a href="https://github.com/RiaAmmu"><img src = "https://activity-graph.herokuapp.com/graph?username=PriyanshuSaxena2612&theme=minimal"/></a>
+<a href="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=buefy"/></a>
+<a href="https://github.com/RiaAmmu"><img src = "https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=minimal"/></a>
 </p>
 
 
@@ -85,9 +86,7 @@
 Here are some ideas to get you started:
 
                                                                                                                
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="150"/>
-</div>
+
 
 ### Hi there 👋
 
