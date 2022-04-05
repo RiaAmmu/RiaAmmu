@@ -35,7 +35,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  
 </p>
 
 ### 💻 Web Stack
@@ -43,7 +43,7 @@
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-  <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -52,9 +52,7 @@
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-230000.svg?logo=flask&logoColor=white">
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -70,14 +68,14 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/PriyanshuSaxena2612/">
+  <a href="https://github.com/RiaAmmu">
     <img alt="Ria Ammu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuSaxena2612&theme=buefy&hide_border=true"/>
   </a>
 
 ## 📊 GitHub Stats
 <p align="center">
-<a href="https://github.com/PriyanshuSaxena2612/"><img src = "https://github-readme-stats.vercel.app/api?username=PriyanshuSaxena2612&show_icons=true&theme=buefy"/></a>
-<a href="https://github.com/PriyanshuSaxena2612/"><img src = "https://activity-graph.herokuapp.com/graph?username=PriyanshuSaxena2612&theme=minimal"/></a>
+<a href="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api?username=PriyanshuSaxena2612&show_icons=true&theme=buefy"/></a>
+<a href="https://github.com/RiaAmmu"><img src = "https://activity-graph.herokuapp.com/graph?username=PriyanshuSaxena2612&theme=minimal"/></a>
 </p>
 
 
