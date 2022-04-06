@@ -69,7 +69,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/RiaAmmu">
-    <img alt="Ria Ammu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuSaxena2612&theme=buefy&hide_border=true"/>
+    <img alt="Ria Ammu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=buefy&hide_border=true"/>
   </a>
 
 ## 📊 GitHub Stats
