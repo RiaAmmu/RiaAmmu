@@ -67,10 +67,10 @@
 ### 👩🏻‍🎨 UI/UX
 
 <p>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-blue.svg?logo=canva&logoColor=white">
-  <img alt="Adobe XD" src ="https://img.shields.io/badge/Adobe XD-important.svg?logo=adobexd&logoColor=black">
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-9cf.svg?logo=adobephotoshop&logoColor=black">
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-critical.svg?logo=adobeillustrator&logoColor=black">
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-20C4CB.svg?logo=canva&logoColor=white">
+  <img alt="Adobe XD" src ="https://img.shields.io/badge/Adobe XD-ff61f6.svg?logo=adobexd&logoColor=470137">
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31a8ff.svg?logo=adobephotoshop&logoColor=001e36">
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-ff9a00.svg?logo=adobeillustrator&logoColor=300">
 </p>
 
 <!--
