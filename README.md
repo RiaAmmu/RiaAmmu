@@ -77,6 +77,7 @@ GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-strea
 <a href="https://github.com/RiaAmmu"><img src = "https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=minimal"/></a>
 </p>
 -->
+<br>
 | ![Ria's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=redical&hide_border=true&area=true)
 | ![Ria's github stats](https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=radical)             
 | ![Ria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=radical)                                                                                                           |
