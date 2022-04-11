@@ -77,19 +77,22 @@ GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-strea
 <a href="https://github.com/RiaAmmu"><img src = "https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=minimal"/></a>
 </p>
 
-<a herf="https://github.com/RiaAmmu"><img src = " "/></a>
-<a herf="https://github.com/RiaAmmu"><img src = " "/></a>
-<a herf="https://github.com/RiaAmmu"><img src = " "/></a>
-<a herf="https://github.com/RiaAmmu"><img src = " "/></a>
-<a herf="https://github.com/RiaAmmu"><img src = " "/></a>
--->
+<a herf="https://github.com/RiaAmmu"><img src = "https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=redical&hide_border=true&area=true"/></a>
+<a herf="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=radical"/></a>
+<a herf="https://github.com/RiaAmmu"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=radical"/></a>
+<a herf="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaAmmu&langs_count=8&theme=radical&layout=compact"/></a>
+<a herf="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical"/></a>
+
 | ![Ria's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=redical&hide_border=true&area=true)
 | ![Ria's github stats](https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=radical)             
 | ![Ria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=radical)                                                         
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiaAmmu&langs_count=8&theme=radical&layout=compact) 
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
-
-
+-->
+![Ria's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=redical&hide_border=true&area=true)
+| ![Ria's github stats](https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=radical)             | ![Ria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiaAmmu&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 <!--
 **RiaAmmu/RiaAmmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
