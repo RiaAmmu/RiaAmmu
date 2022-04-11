@@ -63,10 +63,9 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
 </p>
-
+<!--
 ## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats 
 <p align="center">
   <a href="https://github.com/RiaAmmu">
     <img alt="Ria Ammu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=buefy&hide_border=true"/>
@@ -77,6 +76,14 @@
 <a href="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=buefy"/></a>
 <a href="https://github.com/RiaAmmu"><img src = "https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=minimal"/></a>
 </p>
+-->
+| ![Ria's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=redical&hide_border=true&area=true)
+| ![Ria's github stats](https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=radical)             
+| ![Ria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiaAmmu&langs_count=8&theme=radical&layout=compact) 
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+
 
 
 <!--
