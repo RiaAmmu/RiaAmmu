@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="200"/>
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Data%20Scientist;UI/UX%20Designer;A%20Web%20Dev%20Enthusiast;Aiming%20For%20Software%20Test%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=99B2DD&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Aspiring%20Data%20Scientist;UI/UX%20Designer;A%20Web%20Dev%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=99B2DD&vCenter=true&size=22"></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ria-ammu/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/></a>
@@ -30,12 +30,20 @@
 
 ## 🛠️ Tools
 
+### 👨‍💻 Oracle Tools
+<p>
+  <img alt="Oracle VBCS" src="https://custom-icon-badges.herokuapp.com/badge/Oracle VBCS-9C033A.svg?logo=oracle&logoColor=white">
+  <img alt="Oracle APEX" src="https://custom-icon-badges.herokuapp.com/badge/Oracle APEX-14779C.svg?logo=oracle&logoColor=white">
+<!--   <img alt="Oracle Apex" src="https://img.shields.io/badge/Oracle APEX-14779C.svg?logo=oracle&logoColor=white"> -->
+<!--   <img alt="Oracle SQL" src="https://custom-icon-badges.herokuapp.com/badge/R-blueviolet.svg?logo=R&logoColor=white"> -->
+  
+</p>
+
 ### 👨‍💻 Programming languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-blueviolet.svg?logo=R&logoColor=white">
   <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-9C033A.svg?logo=java&logoColor=white">
-  
   
 </p>
 
