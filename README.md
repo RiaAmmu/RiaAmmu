@@ -1,10 +1,9 @@
+<!--
 <h3 align="center" >
   Welcome to Ria Ammu's GitHub Profile
   
 </h3>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="200"/>
-</div>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Aspiring%20Data%20Scientist;UI/UX%20Designer;A%20Web%20Dev%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=99B2DD&vCenter=true&size=22"></a>
 </p>
@@ -15,8 +14,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/riaammu"><img width="32px" alt="Dev.to" title="Dev.to" src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
-
+-->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="200"/>
+</div>
 <p align="center">
   <a href="https://github.com/RiaAmmu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/RiaAmmu"></a>
@@ -27,108 +28,37 @@
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/RiaAmmu/count.svg" />
 </p>
+<h1 align="center">Hi 👋, I'm Ria Ammu</h1>
+<h3 align="center">A passionate software engineer from India</h3>
 
-## 🛠️ Tools
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riaammu&label=Profile%20views&color=0e75b6&style=flat" alt="riaammu" /> </p>
 
-### 👨‍💻 Oracle Tools
-<p>
-  <img alt="Oracle VBCS" src="https://custom-icon-badges.herokuapp.com/badge/Oracle VBCS-9C033A.svg?logo=oracle&logoColor=white">
-  <img alt="Oracle APEX" src="https://custom-icon-badges.herokuapp.com/badge/Oracle APEX-14779C.svg?logo=oracle&logoColor=white">
-<!--   <img alt="Oracle Apex" src="https://img.shields.io/badge/Oracle APEX-14779C.svg?logo=oracle&logoColor=white"> -->
-<!--   <img alt="Oracle SQL" src="https://custom-icon-badges.herokuapp.com/badge/R-blueviolet.svg?logo=R&logoColor=white"> -->
-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riaammu" alt="riaammu" /></a> </p>
+
+- 🔭 I’m currently working on [Bangtan Universe](https://github.com/RiaAmmu/Bangtan-Universe)
+
+- 🌱 I’m currently learning **Oracle HCM Technical**
+
+- 👨‍💻 All of my projects are available at [https://github.com/RiaAmmu](https://github.com/RiaAmmu)
+
+- 📝 I regularly write articles on [https://riaammu.github.io/Blogs/blogs.html](https://riaammu.github.io/Blogs/blogs.html)
+
+- 💬 Ask me about **Oracle VBCS, Redwood framework**
+
+- 📫 How to reach me **riaammu2002@gmail.com**
+
+- 📄 Know about my experiences [https://riaammu.github.io](https://riaammu.github.io)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/riaammu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riaammu" height="30" width="40" /></a>
 </p>
 
-### 👨‍💻 Programming languages
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-blueviolet.svg?logo=R&logoColor=white">
-  <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-9C033A.svg?logo=java&logoColor=white">
-  
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### 💻 Web Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riaammu&show_icons=true&locale=en&layout=compact" alt="riaammu" /></p>
 
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riaammu&show_icons=true&locale=en" alt="riaammu" /></p>
 
-### 🧰 Frameworks and libraries
-
-<p>
-  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-informational.svg?logo=mysql&logoColor=black">
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-yellowgreen.svg?logo=github&logoColor=white">
-</p>
-
-### 👩🏻‍🎨 UI/UX
-
-<p>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-20C4CB.svg?logo=canva&logoColor=white">
-  <img alt="Adobe XD" src ="https://img.shields.io/badge/Adobe XD-ff61f6.svg?logo=adobexd&logoColor=470137">
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31a8ff.svg?logo=adobephotoshop&logoColor=001e36">
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-ff9a00.svg?logo=adobeillustrator&logoColor=300">
-</p>
-
-<!--
-## 🔥 Streak stats
-GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats 
-<p align="center">
-  <a href="https://github.com/RiaAmmu">
-    <img alt="Ria Ammu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=buefy&hide_border=true"/>
-  </a>
-
-## 📊 GitHub Stats
-<p align="center">
-<a href="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=buefy"/></a>
-<a href="https://github.com/RiaAmmu"><img src = "https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=minimal"/></a>
-</p>-->
-<!--
-<p align="centre">
-  <a herf="https://github.com/RiaAmmu"><img src = "https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=redical&hide_border=true&area=true"></a>
-  
-<p align="centre">
-  <a herf="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=radical"></a>
-  <a herf="https://github.com/RiaAmmu"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=radical"></a>
-  
-<p align="centre">
-  <a herf="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaAmmu&langs_count=8&theme=radical&layout=compact"></a>
-  <a herf="https://github.com/RiaAmmu"><img src = "https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical"></a>
--->
-
-![Ria's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=RiaAmmu&theme=redical&hide_border=true&area=true)
-| ![Ria's github stats](https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&theme=radical)             | ![Ria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiaAmmu&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiaAmmu&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=RiaAmmu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
-
-
-<!--
-**RiaAmmu/RiaAmmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-                                                                                                               
-
-
-### Hi there 👋
-
-
-- 🔭 I’m currently working on Data Science.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riaammu&" alt="riaammu" /></p>
